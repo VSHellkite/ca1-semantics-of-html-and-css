@@ -1,0 +1,48 @@
+.microbox-red{
+    height: 13px;
+    width:  13px;
+    border: black 1px solid;
+    background-color: red;
+    float: left; 
+    margin: 2px;
+}        
+.microbox-white{
+    height: 13px;
+    width:  13px;
+    border: black 1px solid;
+    background-color: white;
+    float: left; 
+    margin: 2px;
+}
+.microbox-seastone{
+    height: 13px;
+    width:  13px;
+    border: black 1px solid;
+    background-color: rgb(10, 172, 172);
+    float: left; 
+    margin: 2px;
+}        
+.microbox-navy{
+    height: 13px;
+    width:  13px;
+    border: black 1px solid;
+    background-color: teal;
+    float: left; 
+    margin: 2px;
+}        
+.microbox-light-blue{
+    height: 13px;
+    width:  13px;
+    border: black 1px solid;
+    background-color: rgb(50, 130, 221);
+    float: left; 
+    margin: 2px;
+}        
+.microbox-dark-blue{
+    height: 13px;
+    width:  13px;
+    border: black 1px solid;
+    background-color: navy;
+    float: left; 
+    margin: 2px;
+}
